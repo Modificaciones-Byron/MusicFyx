@@ -2,7 +2,7 @@
 
 **MusicFyx** es un reproductor de música moderno, ligero y altamente eficiente, diseñado para ofrecer una experiencia de usuario fluida incluso en sistemas con recursos limitados. Con un consumo de memoria sorprendentemente bajo (¡solo 10 MB en Windows 10 y 40 MB en Windows 11!), MusicFyx es la solución perfecta para aquellos que buscan un reproductor de música rápido, elegante y que no comprometa el rendimiento del sistema.
 
-![Captura de pantalla de MusicFyx](screenshots/screenshot0.png)
+![Captura de pantalla de MusicFyx]([screenshots/screenshot0.png](https://github.com/Modificaciones-Byron/MusicFyx/blob/f21422ecef66e0f5e4159e5143a2dfbcb179117c/screenshots/screenshots0.png))
 
 ## Características principales 🌟
 
