@@ -25,8 +25,9 @@ MusicFyx utiliza técnicas avanzadas de optimización para garantizar un rendimi
 - **Integración con Pygame**: La biblioteca Pygame se utiliza para la reproducción de audio, lo que permite un manejo eficiente de los recursos del sistema.
 
 ## Capturas de pantalla 📸
-
+## Inicio
 ![Captura de pantalla 0](/screenshots/screenshots1.png)
+## Biblioteca
 ![Captura de pantalla 0](/screenshots/screenshots2.png)
 
 ## Instalación 🛠️
