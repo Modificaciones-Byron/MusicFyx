@@ -1,3 +1,20 @@
+#------------ Pasos para ejecutar la app en VisualStudio  ------------#
+
+1. Descargar el repositorio
+
+2. Crear el entorno virtual (pegar esto en la terminal)
+   2.1      python -m venv venv
+   2.2      venv\Scripts\activate
+   2.3      pip install --upgrade pip
+   2.4      pip install pygame mutagen Pillow
+   2.5      pip install auto-py-to-exe
+
+3. Ejectuar el programa con F5 o boton de VisualStudio
+  
+
+
+#------------ Pasos para Empaquetar (crear el .exe) con Auto-py-to-exe ------------#
+
 Primero el archivo Main
 " Music.py "
 Segundo las librerias de PyGame
@@ -17,3 +34,7 @@ Septimo el Archivo PNG/
 "sol, luna, atardecer png"
 Octavo el Archivo PNG/
 "default_cover"
+Noveno el archivo 2
+"Inicio.py"
+Decimo el archivo3
+"Perfil.py"
