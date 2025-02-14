@@ -1,0 +1,19 @@
+Primero el archivo Main
+" Music.py "
+Segundo las librerias de PyGame
+" PyGame "
+" PyGame Destribution "
+Tercero las librerias de Monagen
+" Monagen "
+" Monagen Destribution "
+Cuarto las librerias de Pillow
+" PIL "
+" Pillow Destribution "
+Quinto la carpeta Src/
+"imagen predeterminada"
+Sexto la carpeta icons/
+"iconos"
+Septimo el Archivo PNG/
+"sol, luna, atardecer png"
+Octavo el Archivo PNG/
+"default_cover"
