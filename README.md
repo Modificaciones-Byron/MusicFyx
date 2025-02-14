@@ -24,7 +24,7 @@ MusicFyx utiliza técnicas avanzadas de optimización para garantizar un rendimi
 - **Manejo ligero de procesos**: MusicFyx evita procesos en segundo plano innecesarios, lo que garantiza un consumo mínimo de CPU y RAM.
 - **Integración con Pygame**: La biblioteca Pygame se utiliza para la reproducción de audio, lo que permite un manejo eficiente de los recursos del sistema.
 
-## Capturas de pantalla 📸
+## Capturas de pantalla 📸 !
 ## Inicio
 ![Captura de pantalla 0](/screenshots/screenshots1.png)
 ## Biblioteca
