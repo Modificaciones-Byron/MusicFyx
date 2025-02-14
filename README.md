@@ -26,8 +26,7 @@ MusicFyx utiliza técnicas avanzadas de optimización para garantizar un rendimi
 
 ## Capturas de pantalla 📸
 
-(screenshots/screenshot1.png)
-(screenshots/screenshot2.png)
+![Inicio y Biblioteca](screenshots/screenshot1.png)(screenshots/screenshot2.png)
 
 ## Instalación 🛠️
 
